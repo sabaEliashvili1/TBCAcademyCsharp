@@ -23,6 +23,7 @@ for (int i = 0; i < N; i++)
         }
     }
 }
+
 Console.Write("Input Index: ");
 if (!int.TryParse(Console.ReadLine(), out int index))
 {
