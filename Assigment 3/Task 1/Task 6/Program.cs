@@ -36,7 +36,7 @@ for (int i = 0; i < N; i++)
             if (!(int.TryParse(Console.ReadLine(), out int temp)))
             {
                 Console.WriteLine("Wrong Input");
-                continue;
+                continue;c
             }
             else
             {
